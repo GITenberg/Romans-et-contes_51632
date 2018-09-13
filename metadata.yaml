@@ -1,0 +1,36 @@
+_repo: Romans-et-contes_51632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gaultier, Theophile
+    - Gautier, Theophile
+    - Gautier, Pierre-Jules-Théophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2016-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51632'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- GITenberg
+tableOfContents: Avatar -- Jettatura -- Arria Marcella -- La mille et deuxième nuit
+  -- Le pavillon sur l'eau -- L'enfant aux souliers de pain -- Le chevalier double
+  -- Le pied de momie -- La pipe d'opium -- Le club des hachichins.
+title: Romans et contes
+url: http://www.gutenberg.org/ebooks/51632
